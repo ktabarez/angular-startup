@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+###
+1. Execute these steps: https://github.com/coreybutler/nvm-windows#installation--upgrades
+2. Install latest node `nvm install 16.15.1 `
+3. Use latest node `nvm use 16.15.1 `
+4. Install yarn `npm install -g yarn`
+5. `npm install @angular/cli -g`
+6. `npm i`, `ng add @angular-eslint/schematics@next`, `ng lint`, `yarn add cypress --dev`, `ng e2e`
